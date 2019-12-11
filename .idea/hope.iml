@@ -5,6 +5,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Music-Image-style-transfer/NurelStyleTransfer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Music-Image-style-transfer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Music-Image-style-transfer/MusicEmotionRecognition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Music-Image-style-transfer/M2ITransfer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Music-Image-style-transfer/dataPrepare" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Music-Image-style-transfer/train" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (tensorflow)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
